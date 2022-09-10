@@ -1,7 +1,7 @@
 # Candy-Crush-MASM-16
 Candy Crush using Assembly Language MASM(x8086) 16bit 
 
-DOSBOX Gameplay
+## DOSBOX Gameplay
 ![gameplay](gameplay.gif)
 
 ## Connect with Me 😊
